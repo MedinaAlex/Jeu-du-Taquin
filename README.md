@@ -4,4 +4,4 @@ Calcul le plus court chemin pour terminer le jeu à l'aide des heuristiques de H
 
 Pour l'utiliser lancer ApplicationTaquin.java 
 
-Vous pouvez seulement télécharger l'archive et l'importé dans un IDE (Eclipse).
+Vous pouvez seulement télécharger l'archive et l'importer dans un IDE (Eclipse).
